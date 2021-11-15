@@ -2,23 +2,15 @@
   "socialIcons": [
     {
       "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
-    },
-    {
-      "icon": "instagram",
-      "url": "https://www.instagram.com/stackrole/"
+      "url": "https://www.facebook.com/GWSoftware"
     },
     {
       "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
+      "url": "https://www.linkedin.com/grantwatsonfullstack/"
     },
     {
-      "icon": "youtube",
-      "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
-    },
-    {
-      "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
+      "icon": "twitter",
+      "url": "https://twitter.com/granticusdev"
     }
   ]
 }
