@@ -8,6 +8,7 @@ description: "Forecasting the world’s most popular programming languages over
   language’s dominance won’t pan out; then you have the languages that seem to
   come out of nowhere to seize a significant niche (often with a bit of a boost
   from a major tech company). "
+featuredImage: /assets/programdomination.png
 ---
 Forecasting the world’s most popular programming languages over the next few years is a difficult task. Oftentimes, bold predictions about a language’s dominance won’t pan out; then you have the languages that seem to come out of nowhere to seize a significant niche (often with a bit of a boost from a major tech company). 
 
