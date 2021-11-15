@@ -16,7 +16,7 @@ const Footer = () => (
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}
-        by <Link to="/">Grant Watson</Link>
+        by <Link to="/">Grant Watson</Link>{" "}
         <span>
         info@grantwatson.dev
         </span>
