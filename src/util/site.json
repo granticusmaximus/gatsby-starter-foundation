@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "GWS",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "This application is made with ReactJS, Netlify, and joy for the development of Grant Watson's career. Grant Watson is a software engineer located in Denver, CO. I provide help with getting your business connected to potential clients on the web, utilizing websites, social media platforms, and email marketing.",
+    "siteUrl": "https://www.grantwatson.dev",
+    "image": "/assets/logo.png",
+    "iconimage": "/assets/logo.png",
+    "twitterUsername": "@granticusdev"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
