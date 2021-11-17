@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import logo from "../../public/assets/logo.png"
+import logo from "../../static/assets/logo.png"
 
 const Logo = props => (
   <div className="site-logo">
