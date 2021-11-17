@@ -4,7 +4,7 @@ import logo from "../../static/assets/logo.png"
 
 const Logo = props => (
   <div className="site-logo">
-    <Link to="/">{logo}{" "}{props.title}</Link>
+    <Link to="/"><img src={logo} />{" "}{props.title}</Link>
   </div>
 )
 
